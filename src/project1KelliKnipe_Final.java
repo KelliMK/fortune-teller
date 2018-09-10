@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 @SuppressWarnings("unused")
 
-public class project1KelliKnipe_2 {
+public class project1KelliKnipe_Final {
 
 	public static void main(String[] args) {
 		try {
